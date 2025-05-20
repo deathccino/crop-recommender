@@ -1,5 +1,6 @@
-## my groceries
+## my groceries list
 
 * banana
-* apple
 * sugar
+* pineapple
+* strawberry
